@@ -1,2 +1,5 @@
-# fleshdev
-README for the organization.
+<html>
+  <center>
+    <img src="ass/gore.gif">
+    <h1>fleshdev</h1>
+  </center>
